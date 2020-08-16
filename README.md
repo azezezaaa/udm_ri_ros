@@ -11,4 +11,5 @@ cd ..
 catkin build  
 source devel/setup.bash  
 roslaunch udm_urdf visualize_urdf.launch model:='$(find udm_urdf)/urdf/cylinder.urdf'  
+roslaunch udm_urdf visualize_urdf.launch model:='$(find udm_urdf)/urdf/main.urdf'  
 ```
