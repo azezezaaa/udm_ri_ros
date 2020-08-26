@@ -15,7 +15,7 @@ roslaunch udm_urdf visualize_urdf.launch model:='$(find udm_urdf)/urdf/cylinder.
 roslaunch udm_urdf visualize_urdf.launch model:='$(find udm_urdf)/urdf/main.urdf'  
 ```
 
-## udm_hand_moveit_config
+## udm_hand_moveit_config & udm_hand_control
 ### TP03 - Animer un urdf via Move it  
 This folder corresponds to "Animer un urdf via Move it". Additional information can be found in the PDF inside the folder.  
 #### Part 1
